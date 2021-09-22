@@ -1,0 +1,100 @@
+[
+    {
+        "origins": "MRT พหลโยธิน",
+        "destination": "BTS ห้าแยกลาดพร้าว",
+        "distance": 0,
+        "duration": 0,
+        "cost": 0
+    },
+    {
+        "origins": "MRT สวนจตุจักร",
+        "destination": "BTS หมอชิต",
+        "distance": 0,
+        "duration": 0,
+        "cost": 0
+    },
+    {
+        "origins": "MRT บางหว้า",
+        "destination": "BTS บางหว้า",
+        "distance": 0,
+        "duration": 0,
+        "cost": 0
+    },
+    {
+        "origins": "MRT สีลม",
+        "destination": "BTS ศาลาแดง",
+        "distance": 0,
+        "duration": 0,
+        "cost": 0
+    },
+    {
+        "origins": "MRT สุขุมวิท",
+        "destination": "BTS อโศก",
+        "distance": 0,
+        "duration": 0,
+        "cost": 0
+    },
+    {
+        "origins": "MRT เพชรบุรี",
+        "destination": "AIR PORT LINK MAKKASAN",
+        "distance": 0,
+        "duration": 0,
+        "cost": 0
+    },
+    {
+        "origins": "BTS พญาไท",
+        "destination": "AIR PORT LINK PHAYA THAI",
+        "distance": 0,
+        "duration": 0,
+        "cost": 0
+    },
+    {
+        "origins": "BTS ห้าแยกลาดพร้าว",
+        "destination": "MRT พหลโยธิน",
+        "distance": 0,
+        "duration": 0,
+        "cost": 0
+    },
+    {
+        "origins": "BTS หมอชิต",
+        "destination": "MRT สวนจตุจักร",
+        "distance": 0,
+        "duration": 0,
+        "cost": 0
+    },
+    {
+        "origins": "BTS บางหว้า",
+        "destination": "MRT บางหว้า",
+        "distance": 0,
+        "duration": 0,
+        "cost": 0
+    },
+    {
+        "origins": "BTS ศาลาแดง",
+        "destination": "MRT สีลม",
+        "distance": 0,
+        "duration": 0,
+        "cost": 0
+    },
+    {
+        "origins": "BTS อโศก",
+        "destination": "MRT สุขุมวิท",
+        "distance": 0,
+        "duration": 0,
+        "cost": 0
+    },
+    {
+        "origins": "AIR PORT LINK MAKKASAN",
+        "destination": "MRT เพชรบุรี",
+        "distance": 0,
+        "duration": 0,
+        "cost": 0
+    },
+    {
+        "origins": "AIR PORT LINK PHAYA THAI",
+        "destination": "BTS พญาไท",
+        "distance": 0,
+        "duration": 0,
+        "cost": 0
+    }
+]
