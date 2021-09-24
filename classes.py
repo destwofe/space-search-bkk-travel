@@ -3,12 +3,11 @@ from typing import NamedTuple
 
 class Node(NamedTuple):
   id: int
-  # parrentID: int
   visitedStations: list[str]
-  state: str # current station
-  vehicle: str # current vehicle
-  costMoney: int # cost money
-  costDuration: int # cost duration
+  state: str
+  vehicle: str
+  costMoney: int
+  costDuration: int
   f: int
   route: list[str]
 

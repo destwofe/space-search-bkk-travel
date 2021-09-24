@@ -47,7 +47,7 @@ def fetchFromGoogleAPI(origins: str, destinations: str) -> Union[int, int]:
     destinationsFixed = fixedLocation[destinations]
     # print("fixed " + destinations + " -> " + destinationsFixed)
   query = {
-    "key": "AIzaSyCgVsOhCrCaf-xonLB1vTxiPerSBbpep5I",
+    "key": "",
     "origins": originsFixed,
     "destinations": destinationsFixed,
   }
