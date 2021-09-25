@@ -260,7 +260,7 @@
   },
   {
     "origins": "MRT คลองบางไผ่",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 3240.0,
     "cost": 63
@@ -624,7 +624,7 @@
   },
   {
     "origins": "MRT ตลาดบางใหญ่",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 3120.0,
     "cost": 63
@@ -988,7 +988,7 @@
   },
   {
     "origins": "MRT สามแยกบางใหญ่",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 3000.0,
     "cost": 63
@@ -1352,7 +1352,7 @@
   },
   {
     "origins": "MRT บางพลู",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 2820.0,
     "cost": 63
@@ -1716,7 +1716,7 @@
   },
   {
     "origins": "MRT บางรักใหญ่",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 2700.0,
     "cost": 63
@@ -2080,7 +2080,7 @@
   },
   {
     "origins": "MRT บางรักน้อย-ท่าอิฐ",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 2580.0,
     "cost": 62
@@ -2444,7 +2444,7 @@
   },
   {
     "origins": "MRT ไทรม้า",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 2460.0,
     "cost": 59
@@ -2808,7 +2808,7 @@
   },
   {
     "origins": "MRT สะพานพระนั่งเกล้า",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 2340.0,
     "cost": 56
@@ -3172,7 +3172,7 @@
   },
   {
     "origins": "MRT แยกนนทบุรี 1",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 2160.0,
     "cost": 53
@@ -3536,7 +3536,7 @@
   },
   {
     "origins": "MRT บางกระสอ",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 2040.0,
     "cost": 51
@@ -3900,7 +3900,7 @@
   },
   {
     "origins": "MRT ศูนย์ราชการนนทบุรี",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1920.0,
     "cost": 49
@@ -4264,7 +4264,7 @@
   },
   {
     "origins": "MRT กระทรวงสาธารณสุข",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1740.0,
     "cost": 46
@@ -4628,7 +4628,7 @@
   },
   {
     "origins": "MRT แยกติวานนท์",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1560.0,
     "cost": 44
@@ -4992,7 +4992,7 @@
   },
   {
     "origins": "MRT วงศ์สว่าง",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1440.0,
     "cost": 41
@@ -5356,7 +5356,7 @@
   },
   {
     "origins": "MRT บางซ่อน",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1260.0,
     "cost": 38
@@ -5720,7 +5720,7 @@
   },
   {
     "origins": "MRT เตาปูน",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1140.0,
     "cost": 35
@@ -6084,7 +6084,7 @@
   },
   {
     "origins": "MRT บางซื่อ",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1260.0,
     "cost": 38
@@ -6448,7 +6448,7 @@
   },
   {
     "origins": "MRT กำแพงเพชร",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1380.0,
     "cost": 40
@@ -6812,7 +6812,7 @@
   },
   {
     "origins": "MRT สวนจตุจักร",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1500.0,
     "cost": 42
@@ -7176,7 +7176,7 @@
   },
   {
     "origins": "MRT พหลโยธิน",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1680.0,
     "cost": 42
@@ -7540,7 +7540,7 @@
   },
   {
     "origins": "MRT ลาดพร้าว",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1800.0,
     "cost": 42
@@ -7904,7 +7904,7 @@
   },
   {
     "origins": "MRT รัชดาภิเษก",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1920.0,
     "cost": 42
@@ -8268,7 +8268,7 @@
   },
   {
     "origins": "MRT สุทธิสาร",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 2040.0,
     "cost": 42
@@ -8632,7 +8632,7 @@
   },
   {
     "origins": "MRT ห้วยขวาง",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1800.0,
     "cost": 42
@@ -8996,7 +8996,7 @@
   },
   {
     "origins": "MRT ศูนย์วัฒนธรรมแห่งประเทศไทย",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1680.0,
     "cost": 42
@@ -9360,7 +9360,7 @@
   },
   {
     "origins": "MRT พระราม 9",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1560.0,
     "cost": 42
@@ -9724,7 +9724,7 @@
   },
   {
     "origins": "MRT เพชรบุรี",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1440.0,
     "cost": 42
@@ -10088,7 +10088,7 @@
   },
   {
     "origins": "MRT สุขุมวิท",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1320.0,
     "cost": 40
@@ -10452,7 +10452,7 @@
   },
   {
     "origins": "MRT ศูนย์การประชุมแห่งชาติสิริกิติ์",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1140.0,
     "cost": 38
@@ -10816,7 +10816,7 @@
   },
   {
     "origins": "MRT คลองเตย",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1020.0,
     "cost": 35
@@ -11180,7 +11180,7 @@
   },
   {
     "origins": "MRT ลุมพินี",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 960.0,
     "cost": 33
@@ -11544,7 +11544,7 @@
   },
   {
     "origins": "MRT สีลม",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 840.0,
     "cost": 31
@@ -11908,7 +11908,7 @@
   },
   {
     "origins": "MRT สามย่าน",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 720.0,
     "cost": 28
@@ -12272,7 +12272,7 @@
   },
   {
     "origins": "MRT หัวลำโพง",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 600.0,
     "cost": 26
@@ -12636,7 +12636,7 @@
   },
   {
     "origins": "MRT วัดมังกร",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 480.0,
     "cost": 24
@@ -13000,7 +13000,7 @@
   },
   {
     "origins": "MRT สามยอด",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 360.0,
     "cost": 21
@@ -13364,7 +13364,7 @@
   },
   {
     "origins": "MRT สนามไชย",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 240.0,
     "cost": 19
@@ -13728,7 +13728,7 @@
   },
   {
     "origins": "MRT อิสรภาพ",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 120.0,
     "cost": 17
@@ -13832,364 +13832,364 @@
     "cost": 19
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT คลองบางไผ่",
     "distance": 0,
     "duration": 3240.0,
     "cost": 63
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT ตลาดบางใหญ่",
     "distance": 0,
     "duration": 3120.0,
     "cost": 63
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT สามแยกบางใหญ่",
     "distance": 0,
     "duration": 3000.0,
     "cost": 63
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT บางพลู",
     "distance": 0,
     "duration": 2820.0,
     "cost": 63
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT บางรักใหญ่",
     "distance": 0,
     "duration": 2700.0,
     "cost": 63
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT บางรักน้อย-ท่าอิฐ",
     "distance": 0,
     "duration": 2580.0,
     "cost": 62
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT ไทรม้า",
     "distance": 0,
     "duration": 2460.0,
     "cost": 59
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT สะพานพระนั่งเกล้า",
     "distance": 0,
     "duration": 2340.0,
     "cost": 56
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT แยกนนทบุรี 1",
     "distance": 0,
     "duration": 2160.0,
     "cost": 53
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT บางกระสอ",
     "distance": 0,
     "duration": 2040.0,
     "cost": 51
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT ศูนย์ราชการนนทบุรี",
     "distance": 0,
     "duration": 1920.0,
     "cost": 49
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT กระทรวงสาธารณสุข",
     "distance": 0,
     "duration": 1740.0,
     "cost": 46
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT แยกติวานนท์",
     "distance": 0,
     "duration": 1560.0,
     "cost": 44
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT วงศ์สว่าง",
     "distance": 0,
     "duration": 1440.0,
     "cost": 41
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT บางซ่อน",
     "distance": 0,
     "duration": 1260.0,
     "cost": 38
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT เตาปูน",
     "distance": 0,
     "duration": 1140.0,
     "cost": 35
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT บางซื่อ",
     "distance": 0,
     "duration": 1260.0,
     "cost": 38
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT กำแพงเพชร",
     "distance": 0,
     "duration": 1380.0,
     "cost": 40
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT สวนจตุจักร",
     "distance": 0,
     "duration": 1500.0,
     "cost": 42
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT พหลโยธิน",
     "distance": 0,
     "duration": 1680.0,
     "cost": 42
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT ลาดพร้าว",
     "distance": 0,
     "duration": 1800.0,
     "cost": 42
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT รัชดาภิเษก",
     "distance": 0,
     "duration": 1920.0,
     "cost": 42
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT สุทธิสาร",
     "distance": 0,
     "duration": 2040.0,
     "cost": 42
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT ห้วยขวาง",
     "distance": 0,
     "duration": 1800.0,
     "cost": 42
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT ศูนย์วัฒนธรรมแห่งประเทศไทย",
     "distance": 0,
     "duration": 1680.0,
     "cost": 42
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT พระราม 9",
     "distance": 0,
     "duration": 1560.0,
     "cost": 42
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT เพชรบุรี",
     "distance": 0,
     "duration": 1440.0,
     "cost": 42
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT สุขุมวิท",
     "distance": 0,
     "duration": 1320.0,
     "cost": 40
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT ศูนย์การประชุมแห่งชาติสิริกิติ์",
     "distance": 0,
     "duration": 1140.0,
     "cost": 38
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT คลองเตย",
     "distance": 0,
     "duration": 1020.0,
     "cost": 35
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT ลุมพินี",
     "distance": 0,
     "duration": 960.0,
     "cost": 33
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT สีลม",
     "distance": 0,
     "duration": 840.0,
     "cost": 31
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT สามย่าน",
     "distance": 0,
     "duration": 720.0,
     "cost": 28
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT หัวลำโพง",
     "distance": 0,
     "duration": 600.0,
     "cost": 26
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT วัดมังกร",
     "distance": 0,
     "duration": 480.0,
     "cost": 24
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT สามยอด",
     "distance": 0,
     "duration": 360.0,
     "cost": 21
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT สนามไชย",
     "distance": 0,
     "duration": 240.0,
     "cost": 19
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT อิสรภาพ",
     "distance": 0,
     "duration": 120.0,
     "cost": 17
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT บางไผ่",
     "distance": 0,
     "duration": 120.0,
     "cost": 17
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT บางหว้า",
     "distance": 0,
     "duration": 180.0,
     "cost": 19
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT เพชรเกษม 48",
     "distance": 0,
     "duration": 300.0,
     "cost": 21
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT ภาษีเจริญ",
     "distance": 0,
     "duration": 420.0,
     "cost": 24
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT บางแค",
     "distance": 0,
     "duration": 540.0,
     "cost": 26
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT หลักสอง",
     "distance": 0,
     "duration": 660.0,
     "cost": 28
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT บางโพ",
     "distance": 0,
     "duration": 1020.0,
     "cost": 33
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT บางอ้อ",
     "distance": 0,
     "duration": 840.0,
     "cost": 31
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT บางพลัด",
     "distance": 0,
     "duration": 780.0,
     "cost": 28
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT สิรินธร",
     "distance": 0,
     "duration": 600.0,
     "cost": 26
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT บางยี่ขัน",
     "distance": 0,
     "duration": 540.0,
     "cost": 24
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT บางขุนนนท์",
     "distance": 0,
     "duration": 360.0,
     "cost": 21
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT ไฟฉาย",
     "distance": 0,
     "duration": 240.0,
     "cost": 19
   },
   {
-    "origins": "MRT ท่าพระ ",
+    "origins": "MRT ท่าพระ",
     "destination": "MRT จรัญฯ 13",
     "distance": 0,
     "duration": 120.0,
@@ -14463,7 +14463,7 @@
   },
   {
     "origins": "MRT บางไผ่",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 120.0,
     "cost": 17
@@ -14827,7 +14827,7 @@
   },
   {
     "origins": "MRT บางหว้า",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 180.0,
     "cost": 19
@@ -15191,7 +15191,7 @@
   },
   {
     "origins": "MRT เพชรเกษม 48",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 300.0,
     "cost": 21
@@ -15555,7 +15555,7 @@
   },
   {
     "origins": "MRT ภาษีเจริญ",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 420.0,
     "cost": 24
@@ -15919,7 +15919,7 @@
   },
   {
     "origins": "MRT บางแค",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 540.0,
     "cost": 26
@@ -16283,7 +16283,7 @@
   },
   {
     "origins": "MRT หลักสอง",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 660.0,
     "cost": 28
@@ -16647,7 +16647,7 @@
   },
   {
     "origins": "MRT บางโพ",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 1020.0,
     "cost": 33
@@ -17011,7 +17011,7 @@
   },
   {
     "origins": "MRT บางอ้อ",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 840.0,
     "cost": 31
@@ -17375,7 +17375,7 @@
   },
   {
     "origins": "MRT บางพลัด",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 780.0,
     "cost": 28
@@ -17739,7 +17739,7 @@
   },
   {
     "origins": "MRT สิรินธร",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 600,
     "cost": 26
@@ -18103,7 +18103,7 @@
   },
   {
     "origins": "MRT บางยี่ขัน",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 540.0,
     "cost": 24
@@ -18467,7 +18467,7 @@
   },
   {
     "origins": "MRT บางขุนนนท์",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 360.0,
     "cost": 21
@@ -18831,7 +18831,7 @@
   },
   {
     "origins": "MRT ไฟฉาย",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 240.0,
     "cost": 19
@@ -19195,7 +19195,7 @@
   },
   {
     "origins": "MRT จรัญฯ 13",
-    "destination": "MRT ท่าพระ ",
+    "destination": "MRT ท่าพระ",
     "distance": 0,
     "duration": 120.0,
     "cost": 17
